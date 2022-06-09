@@ -1,0 +1,114 @@
+[
+    {
+        "name": "provider",
+        "type": "string"
+    },
+    {
+        "name": "provider_country",
+        "type": "string"
+    },
+    {
+        "name": "sku",
+        "type": "string"
+    },
+    {
+        "name": "developer",
+        "type": "string"
+    },
+    {
+        "name": "title",
+        "type": "string"
+    },
+    {
+        "name": "version",
+        "type": "string"
+    },
+    {
+        "name": "product_type_identifier",
+        "type": "string"
+    },
+    {
+        "name": "units",
+        "type": "integer"
+    },
+    {
+        "name": "developer_proceeds",
+        "type": "decimal"
+    },
+    {
+        "name": "begin_date",
+        "type": "string"
+    },
+    {
+        "name": "end_date",
+        "type": "string"
+    },
+    {
+        "name": "customer_currency",
+        "type": "string"
+    },
+    {
+        "name": "country_code",
+        "type": "string"
+    },
+    {
+        "name": "currency_of_proceeds",
+        "type": "string"
+    },
+    {
+        "name": "apple_identifier",
+        "type": "integer"
+    },
+    {
+        "name": "customer_price",
+        "type": "decimal"
+    },
+    {
+        "name": "promo_code",
+        "type": "string"
+    },
+    {
+        "name": "parent_identifier",
+        "type": "string"
+    },
+    {
+        "name": "subscription",
+        "type": "string"
+    },
+    {
+        "name": "period",
+        "type": "string"
+    },
+    {
+        "name": "category",
+        "type": "string"
+    },
+    {
+        "name": "cmb",
+        "type": "number"
+    },
+    {
+        "name": "device",
+        "type": "string"
+    },
+    {
+        "name": "supported_platforms",
+        "type": "string"
+    },
+    {
+        "name": "proceeds_reason",
+        "type": "string"
+    },
+    {
+        "name": "preserved_pricing",
+        "type": "string"
+    },
+    {
+        "name": "client",
+        "type": "string"
+    },
+    {
+        "name": "order_type",
+        "type": "string"
+    }
+]
